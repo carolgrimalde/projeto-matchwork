@@ -1,0 +1,19 @@
+header {
+    background-color: cyan;
+}
+
+#infos-empresa {
+    background-color: blueviolet;
+}
+
+#box {
+    background-color:red;
+}
+
+#comments-container {
+    background-color: chartreuse;
+}
+
+footer {
+    background-color: darkgreen;
+}
