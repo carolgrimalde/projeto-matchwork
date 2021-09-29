@@ -1,14 +1,41 @@
-header {
-    background-color: cyan;
+#img-logo {
+    width: 150px;
+    margin: 80px auto 0 auto;
 }
 
 #infos-empresa {
-    background-color: blueviolet;
+    width: 700px;
+    margin: 0 auto 80px auto;
+}
+
+#infos-empresa h1 {
+    margin-top: 0;
 }
 
 #box {
-    background-color:red;
+    background-color:#F7F7F7;
+    height: 700px;
 }
+
+#infos-app {
+    padding-top: 20px;
+}
+
+#screens {
+    margin: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#infos-screen .infos {
+    width: 400px;
+    margin-bottom: 50px;
+}
+
+#img-screen img {
+    border-radius: 10px;
+    width: 270px;
+} 
 
 #comments-container {
     background-color: chartreuse;
